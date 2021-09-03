@@ -7,7 +7,7 @@ app = Flask(__name__)
 app.secret_key = "testing"
 #connoct to your Mongo DB database
 # client = pymongo.MongoClient("mongodb+srv://Richard:Password@cluster0-xth9g.mongodb.net/Richard?retryWrites=true&w=majority")
-client = pymongo.MongoClient("mongodb+srv://icecreamsoumi23:icecreamsoumi23@cluster-test.fndbj.mongodb.net/loginData?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://id:pw@cluster-test.fndbj.mongodb.net/loginData?retryWrites=true&w=majority")
 
 #get the database name
 db = client.get_database('loginData')
