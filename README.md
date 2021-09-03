@@ -30,4 +30,7 @@ Get URL
 
 ![image](https://user-images.githubusercontent.com/51290447/131957533-a394e54a-62f3-4958-9a09-f458f5d0d388.png)
 
+Cluster-test -> collections -> Add your own data 
+
+Go to cluster dashboard -> Connect-> Add your IP -> Create a mongoDB user and password -> Connect your application -> copy code
 
