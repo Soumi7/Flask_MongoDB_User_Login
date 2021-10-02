@@ -34,3 +34,4 @@ Cluster-test -> collections -> Add your own data
 
 Go to cluster dashboard -> Connect-> Add your IP -> Create a mongoDB user and password -> Connect your application -> copy code
 
+![image](https://user-images.githubusercontent.com/51290447/132014041-90ab1142-9aa5-4af4-bd4a-b8a375b1fc4e.png)
